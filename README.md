@@ -56,7 +56,7 @@ pip install -r requirements.txt</code></pre>
 </ul>
 
 <h2>Model Predictions</h2>
-<p>The model predicts future demand over 10 days, providing insights into the necessary reorder point, safety stock, and optimal order quantity for inventory management.</p>
+<p>The model predicts future demands, providing insights into the necessary reorder point, safety stock, and optimal order quantity for inventory management.</p>
 
 <h2>Conclusion</h2>
 <p>This project provides an end-to-end solution for demand forecasting, helping businesses maintain optimal inventory levels and reduce costs through effective forecasting techniques.</p>
